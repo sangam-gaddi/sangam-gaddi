@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=9,17,24&height=280&section=header&text=Sangam Gaddi&fontSize=70&fontColor=00FFFF&animation=twinkling&fontAlignY=42&desc=AI + FULL STACK DEV&descSize=22&descFontColor=FF00FF&descAlignY=63" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=9,17,24&height=280&section=header&text=Sangam%20Gaddi&fontSize=70&fontColor=00FFFF&animation=twinkling&fontAlignY=42&desc=AI%20%2B%20FULL%20STACK%20DEV&descSize=22&descFontColor=FF00FF&descAlignY=63" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Redefining internet;Building+building mantis-os;Learning+learning langchain" alt="Typing SVG"/>
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
